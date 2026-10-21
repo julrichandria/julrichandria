@@ -1,71 +1,59 @@
-# Ulrich An
+# <span style="color: #2563eb;">Ulrich An</span>
 
 Entrepreneur & Créateur de projets | Passionné par le numérique, la technologie et l'innovation
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=333&center=true&vCenter=true&width=600&lines=Design+|+Technologie+|+Innovation" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=2563eb&center=true&vCenter=true&width=600&lines=Design+|+Technologie+|+Innovation&repeat=true" alt="Pulse Animation" />
 </div>
 
 ---
 
-## À propos
+## <span style="color: #059669;">À propos</span>
 
-Je suis Ulrich An, entrepreneur et créateur de projets passionné par le numérique, la technologie et l'innovation. Je suis particulièrement orienté vers la conception visuelle des sites web et l'expérience utilisateur.
+Je suis <span style="color: #2563eb;">Ulrich An</span>, entrepreneur et créateur de projets passionné par le numérique, la technologie et l'innovation. Je suis particulièrement orienté vers la conception visuelle des sites web et l'expérience utilisateur.
 
 J'imagine et développe des solutions digitales ambitieuses pour simplifier le quotidien, accompagner les entreprises et créer un impact durable. Mon ambition est de bâtir un écosystème technologique innovant capable de connecter les personnes, les idées et les opportunités à l'échelle mondiale.
 
 ---
 
-## Ce que je fais
+## <span style="color: #dc2626;">Ce que je fais</span>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julrichandria&show_icons=true&theme=default&hide_border=true&icon_color=333&title_color=333&text_color=333&bg_color=ffffff" alt="GitHub Stats" />
-</div>
+<span style="color: #2563eb;">`➤`</span> <span style="color: #9333ea;">**Design Visuel**</span> - Conception d'interfaces web modernes et élégantes
 
-`➤` **Design Visuel** - Conception d'interfaces web modernes et élégantes
+<span style="color: #2563eb;">`➤`</span> <span style="color: #0891b2;">**UX/UI**</span> - Expérience utilisateur centrée et intuitive
 
-`➤` **UX/UI** - Expérience utilisateur centrée et intuitive
+<span style="color: #2563eb;">`➤`</span> <span style="color: #ca8a04;">**Technologie**</span> - Solutions digitales innovantes et ambitieuses
 
-`➤` **Technologie** - Solutions digitales innovantes et ambitieuses
-
-`➤` **Innovation** - Écosystème connectant personnes, idées et opportunités
+<span style="color: #2563eb;">`➤`</span> <span style="color: #be185d;">**Innovation**</span> - Écosystème connectant personnes, idées et opportunités
 
 ---
 
-## Projets actuels
+## <span style="color: #7c3aed;">Projets actuels</span>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=julrichandria&theme=default&hide_border=true&stroke=333&background=ffffff&ring=333&fire=333&currStreakLabel=333" alt="Streak Stats" />
-</div>
+<span style="color: #059669;">`•`</span> Projets web avec design moderne
 
-`•` Projets web avec design moderne
+<span style="color: #059669;">`•`</span> Écosystème technologique en construction
 
-`•` Écosystème technologique en construction
-
-`•` Initiatives d'innovation digitale
+<span style="color: #059669;">`•`</span> Initiatives d'innovation digitale
 
 ---
 
-## Intérêts
+## <span style="color: #be185d;">Intérêts</span>
 
-`□` Design visuel et interfaces web
+<span style="color: #2563eb;">`□`</span> Design visuel et interfaces web
 
-`□` UX/UI et expérience utilisateur
+<span style="color: #2563eb;">`□`</span> UX/UI et expérience utilisateur
 
-`□` Technologie et innovation
+<span style="color: #2563eb;">`□`</span> Technologie et innovation
 
-`□` Numérique et transformation digitale
+<span style="color: #2563eb;">`□`</span> Numérique et transformation digitale
 
-`□` Entrepreneuriat et création d'entreprise
+<span style="color: #2563eb;">`□`</span> Entrepreneuriat et création d'entreprise
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=julrichandria&theme=default&bg_color=ffffff&color=333&line=333&point=333&area=true&hide_border=true" alt="Activity Graph" />
+  <span style="color: #2563eb;">Design</span> · <span style="color: #9333ea;">Technologie</span> · <span style="color: #dc2626;">Innovation</span>
 </div>
-
----
-
-*Design · Technologie · Innovation*
